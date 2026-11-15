@@ -8,4 +8,4 @@ My interest comes from experience in the workplace having faced such issues firs
 - **[AdventureWorks Sales Dashboard](https://github.com/Sidhra-j/AdventureWorks-Sales-Dashboard)**
 
 ## 📫 Connect with me here
-(www.linkedin.com/in/sidhrajaved)
+**(www.linkedin.com/in/sidhrajaved)**
